@@ -1,3 +1,5 @@
+// Author: Brandon Knieriem
+
 package com.bknieriem.dice;
 
 import android.media.MediaPlayer;
