@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Dice</string>
+    <string name="app_name">Dicee</string>
     <string name="author">Brandon Knieriem</string>
     <string name="roll_btn">Roll</string>
+    <string name="d1_content">Dice 1</string>
+    <string name="d2_content">Dice 2</string>
+    <string name="logo_content">Dicee Logo</string>
 </resources>
